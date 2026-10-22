@@ -84,7 +84,7 @@
 
 ---
 
-<h1 align="center">BUDGET TRACKER</h1>
+<h1 align="center">Team Task & Workflow Manager</h1>
 
 <p align="center">
   Operational management platform designed for team coordination, task assignment, and project workflow control.<br/>
