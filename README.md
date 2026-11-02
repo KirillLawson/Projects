@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/K_2fb_dvygI">
+  <a href="https://youtu.be/7NIGMfRd0AE">
     <img src="https://img.shields.io/badge/🎥%20Watch%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"/>
   </a>
 </p>
